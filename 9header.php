@@ -3,7 +3,7 @@
 <?php
 
 
-//$link = 'http://google.co.uk';
+//$link = 'http://google.co.uk';kjrdgkf
 header('Location:http://google.co.uk');
 
 
