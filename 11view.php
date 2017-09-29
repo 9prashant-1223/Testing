@@ -1,7 +1,6 @@
 <?php
  session_start();
 echo $_SESSION['name'];
-
   $s = $_SESSION['name'];
 
 if(isset($s))
