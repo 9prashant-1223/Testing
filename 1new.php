@@ -6,11 +6,11 @@
 
 
 
-   //can be use whole html text in am one echo
+  
 
    echo'<strong>hello world.</strong>' ;
    
-   //use of "" and '' in different ways without gettig error
+ 
 
     echo"<input type='text'name='name'>";
     echo'<input type="text"name="name"><br/>';
