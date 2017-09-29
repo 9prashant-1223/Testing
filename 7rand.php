@@ -13,14 +13,7 @@
    echo 'u rolled a '.$rand1.'<br><br>';
 
  }
-
-
-
-
-
-
 ?>
-
 <form action="7rand.php" method="POST">
 <input type ="submit" name = "roll" value="roll the dice">
 </form>
